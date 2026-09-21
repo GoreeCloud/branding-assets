@@ -19,8 +19,8 @@
       "name": "Everkeep",
       "center": "Continuity Center",
       "canonical_asset": "systems/everkeep/everkeep.svg",
-      "git_blob": "f27b418e1307383807c3ff3d2a2814a369220367",
-      "consumer_repository": "GoreeCloud/goreecloud-everkeep",
+      "git_blob": "df94dfee34632a3e6684b1d49aa306b3174065fa",
+      "consumer_repository": "GoreeCloud/everkeep",
       "status": "approved"
     },
     {
