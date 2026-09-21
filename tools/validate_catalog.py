@@ -87,7 +87,7 @@ def main() -> int:
             status = system.get("status")
             asset = system.get("canonical_asset")
             blob = system.get("git_blob")
-            if status == "approved":
+            if status in {"approved", "review-candidate"}:
                 if not asset:
                     fail(f"approved system lacks canonical asset: {system_id}")
                 if asset in system_paths:
