@@ -8,9 +8,9 @@ Platform-system names represent substantive GoreeCloud capabilities and governan
 
 | System | Center | Canonical asset | Status | Migration commit |
 | --- | --- | --- | --- | --- |
-| Privacy Shield | Privacy Center | `privacy-shield/privacy-shield-icon.svg` | Approved | `c706b7b6cb802fc8001b70b1d8624f9f59b4735a` |
+| Privacy Shield | Privacy Center | `privacy-shield/privacy-shield-icon.svg` | Approved — Veil Aperture | Native 2026 visual-identity revamp |
 | Wardveil Security | Security Center | `wardveil-security/wardveil-security-icon.svg` | Approved — Sentinel Fold | Native redesign in unified branding repository |
-| Everkeep | Continuity Center | `everkeep/everkeep.svg` | Approved — Keystone 04 | `1c9c66651cf9ffc45421c26551d25eca53564c46` |
+| Everkeep | Continuity Center | `everkeep/everkeep.svg` | Approved — Continuity Orbit | Native 2026 visual-identity revamp |
 | Glaze UI | Design Center | `glaze-ui/glaze-ui-mark.svg` | Approved — Facet | `18cf43e7b938273e40a0c47a727e971667b1bbde` |
 | GoreeCloud Mesh | Mesh Center | `goreecloud-mesh/goreecloud-mesh-mark.svg` | Approved — Interlace | Native redesign in unified branding repository |
 | GoreeCloud Policy | — | `policy/policy-icon.svg` | Approved — Decision Frame | Native identity created in unified branding repository |
@@ -18,11 +18,11 @@ Platform-system names represent substantive GoreeCloud capabilities and governan
 
 ## Migration provenance
 
-The approved Privacy Shield source was migrated from `GoreeCloud/goreecloud-privacy-shield` path `branding/privacy-shield/privacy-shield-icon.svg` without geometry changes.
+Privacy Shield now uses the approved **Veil Aperture** identity created natively in this repository. The prior migrated shield artwork is superseded and remains historical only in Git revision history.
 
 Wardveil Security now uses the natively redesigned **Sentinel Fold** identity in this unified branding repository. Superseded Wardveil artwork is not retained in the current branding tree; source-control and change-record history provide the governed revision trail.
 
-The approved Everkeep Keystone 04 source was migrated from `GoreeCloud/goreecloud-everkeep` path `assets/everkeep.svg` without geometry changes.
+Everkeep now uses the approved **Continuity Orbit** identity created natively in this repository. The prior Keystone 04 artwork is superseded and remains historical only in Git revision history.
 
 The approved Glaze UI Facet source was migrated from `GoreeCloud/goreecloud-glaze-ui` path `assets/identity/official/facet/glaze-ui-mark.svg` without geometry changes.
 

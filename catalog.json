@@ -19,7 +19,7 @@
       "name": "Everkeep",
       "center": "Continuity Center",
       "canonical_asset": "systems/everkeep/everkeep.svg",
-      "git_blob": "5f70a483e06147193944c816291d42774a8648b2",
+      "git_blob": "f27b418e1307383807c3ff3d2a2814a369220367",
       "consumer_repository": "GoreeCloud/goreecloud-everkeep",
       "status": "approved"
     },
@@ -64,7 +64,7 @@
       "name": "Privacy Shield",
       "center": "Privacy Center",
       "canonical_asset": "systems/privacy-shield/privacy-shield-icon.svg",
-      "git_blob": "62b10029d4104d0235afe634c21f55d0a826a63d",
+      "git_blob": "e8afe0ff90f1cbc79e43804771b5efc40f9015c9",
       "consumer_repository": "GoreeCloud/goreecloud-privacy-shield",
       "status": "approved"
     },
@@ -90,7 +90,7 @@
       "id": "ai",
       "name": "GoreeCloud AI",
       "canonical_asset": "products/ai/app-icon.svg",
-      "git_blob": "1cbe04748f50cb843eef0cbb7233e2769efa275a",
+      "git_blob": "45abe89127735824fcccd68e4d972e1f3bc3d57b",
       "consumer_repository": "GoreeCloud/goreecloud-ai"
     },
     {
@@ -328,7 +328,7 @@
       "id": "network",
       "name": "GoreeCloud Network",
       "canonical_asset": "products/network/app-icon.svg",
-      "git_blob": "7457cd187d65887189150016b44c28af279635e5",
+      "git_blob": "f6c9cff7298be72c9fb97bf947f4a271201400cc",
       "consumer_repository": "GoreeCloud/goreecloud-network"
     },
     {
