@@ -32,7 +32,7 @@ I maintain source raster sizes including 120, 152, 167, 180, and 1024 pixels for
 
 ### Wallpapers
 
-All GoreeCloud-themed wallpapers must be stored in `GoreeCloud/goreecloud-branding-assets`, with canonical wallpaper files organized under `wallpapers/`.
+All GoreeCloud-themed wallpapers must be stored in `GoreeCloud/branding-assets`, with canonical wallpaper files organized under `wallpapers/`.
 
 Wallpaper exports must be high-quality and production-ready. 4K resolution is preferred whenever practical. Lower-resolution or device-specific derivatives may be supplied where compatibility, performance, packaging, or presentation requirements justify them.
 
@@ -70,4 +70,4 @@ Automated branding CI validates the root canonical catalog and the service ident
 
 ## Repository policy
 
-`GoreeCloud/goreecloud-branding-assets` is the authoritative Git home for approved branding vector sources and identity documentation. Binary production packages may be distributed as release artifacts or checked in where operationally useful, but they remain derivatives of canonical sources stored here.
+`GoreeCloud/branding-assets` is the authoritative Git home for approved branding vector sources and identity documentation. Binary production packages may be distributed as release artifacts or checked in where operationally useful, but they remain derivatives of canonical sources stored here.
