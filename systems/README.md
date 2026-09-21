@@ -13,6 +13,8 @@ Platform-system names represent substantive GoreeCloud capabilities and governan
 | Everkeep | Continuity Center | `everkeep/everkeep.svg` | Approved — Keystone 04 | `1c9c66651cf9ffc45421c26551d25eca53564c46` |
 | Glaze UI | Design Center | `glaze-ui/glaze-ui-mark.svg` | Approved — Facet | `18cf43e7b938273e40a0c47a727e971667b1bbde` |
 | GoreeCloud Mesh | Mesh Center | `goreecloud-mesh/goreecloud-mesh-mark.svg` | Approved — Interlace | Native redesign in unified branding repository |
+| GoreeCloud Policy | — | `policy/policy-icon.svg` | Approved — Decision Frame | Native identity created in unified branding repository |
+| GoreeCloud Observability | — | `observability/observability-icon.svg` | Approved — Signal Lens | Native identity created in unified branding repository |
 
 ## Migration provenance
 
@@ -25,6 +27,10 @@ The approved Everkeep Keystone 04 source was migrated from `GoreeCloud/goreeclou
 The approved Glaze UI Facet source was migrated from `GoreeCloud/goreecloud-glaze-ui` path `assets/identity/official/facet/glaze-ui-mark.svg` without geometry changes.
 
 GoreeCloud Mesh now uses the approved **Interlace** redesign created and promoted natively in this repository. The superseded Weave artwork is not retained as a current or archived branding asset; its prior revision remains part of governed source-control and chronological change history only.
+
+GoreeCloud Policy now uses the approved **Decision Frame** identity, built around policy boundaries, rule evaluation, and a distinct decision mark without reusing another system's icon.
+
+GoreeCloud Observability now uses the approved **Signal Lens** identity, built around an observation field and operational signal trace without reusing GoreeCloud Monitor's product icon.
 
 ## Current-only artwork rule
 
