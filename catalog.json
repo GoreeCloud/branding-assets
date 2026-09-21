@@ -26,7 +26,7 @@
     {"id":"app-store","name":"GoreeCloud App Store","canonical_asset":"products/app-store/app-icon.svg","git_blob":"70d6daa3c481281b63f2ca6d63c0c7b3da7c5038","consumer_repository":"GoreeCloud/goreecloud-app-store","status":"review-candidate"},
     {"id":"backup","name":"GoreeCloud Backup","canonical_asset":"products/backup/app-icon.svg","git_blob":"6e8f2bc02beb4679ed99f2db787e7dc6b4a0f28f","consumer_repository":"GoreeCloud/goreecloud-backup"},
     {"id":"bookmarks","name":"GoreeCloud Bookmarks","canonical_asset":"products/bookmarks/app-icon.svg","git_blob":"2e9947924708df10844a3a81f47585c4da6b931a","consumer_repository":"GoreeCloud/goreecloud-bookmarks"},
-    {"id":"browser","name":"GoreeCloud Browser","canonical_asset":"products/browser/app-icon.svg","git_blob":"2a81cc68cb8c1831dfd7bec6c3d0b14e2f421f1f","consumer_repository":"GoreeCloud/goreecloud-browser"},
+    {"id":"browser","name":"GoreeCloud Browser","canonical_asset":"products/browser/app-icon.svg","git_blob":"3f502e5a6dae8ff3cb86dfdc3ae5d2eb2e8b54e1","consumer_repository":"GoreeCloud/goreecloud-browser"},
     {"id":"calendar","name":"GoreeCloud Calendar","canonical_asset":"products/calendar/app-icon.svg","git_blob":"369c42a204c6b130f49f37f91ec0569256a2c19e","consumer_repository":"GoreeCloud/goreecloud-calendar"},
     {"id":"care","name":"GoreeCloud Care","canonical_asset":"products/care/app-icon.svg","git_blob":"c4568ce4b24b9eb47971ec522317b737f1a509c8","consumer_repository":"GoreeCloud/goreecloud-zorin-os"},
     {"id":"changelogs","name":"GoreeCloud Changelogs","canonical_asset":"products/changelogs/app-icon.svg","git_blob":"958878ecde32cadd3e646c606534638e4f5e01fb","consumer_repository":"GoreeCloud/goreecloud-changelogs"},
