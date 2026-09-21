@@ -22,6 +22,7 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `feed`
 - `file-manager`
 - `gallery`
+- `home-security`
 - `gateway`
 - `identity`
 - `index`
@@ -40,6 +41,7 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `notify`
 - `photos`
 - `search`
+- `social`
 - `sync`
 - `tasks`
 - `terminal`
