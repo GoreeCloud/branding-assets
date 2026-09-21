@@ -44,7 +44,7 @@
     {"id":"identity","name":"GoreeCloud Identity","canonical_asset":"products/identity/app-icon.svg","git_blob":"e7d59b1ac7d1e7f084832ccd284fc8b50cd5a01d","consumer_repository":"GoreeCloud/goreecloud-identity","status":"review-candidate"},
     {"id":"index","name":"GoreeCloud Index","canonical_asset":"products/index/app-icon.svg","git_blob":"49592268734b70d34d180ee9d5d81411b635ec3f","consumer_repository":"GoreeCloud/index","status":"review-candidate"},
     {"id":"keyboard","name":"GoreeCloud Keyboard","canonical_asset":"products/keyboard/app-icon.svg","git_blob":"9dea51ca5853dc0faf41d94fbc12ee810480c472","consumer_repository":"GoreeCloud/goreecloud-keyboard"},
-    {"id":"launcher","name":"GoreeCloud Launcher","canonical_asset":"products/launcher/app-icon.svg","git_blob":"d6768114e689058f1c911beca4050f33c96bd7c2","consumer_repository":"GoreeCloud/goreecloud-launcher"},
+    {"id":"launcher","name":"GoreeCloud Launcher","canonical_asset":"products/launcher/app-icon.svg","git_blob":"68ea82c4657253a1396376f715d3582f1417b9ac","consumer_repository":"GoreeCloud/goreecloud-launcher"},
     {"id":"location","name":"GoreeCloud Location","canonical_asset":"products/location/app-icon.svg","git_blob":"ceb93b6d814c80ece0929022eb5edcdfbc346e2d","consumer_repository":"GoreeCloud/goreecloud-location"},
     {"id":"mail","name":"GoreeCloud Mail","canonical_asset":"products/mail/app-icon.svg","git_blob":"6fcc489ccfc6348514755a9a052dc413ee17ccde","consumer_repository":"GoreeCloud/goreecloud-mail"},
     {"id":"manager","name":"GoreeCloud Manager","canonical_asset":"products/manager/app-icon.svg","git_blob":"024d82d5b5911e426216dfbd6a19d95cd6d71fc3","consumer_repository":"GoreeCloud/goreecloud-manager"},
