@@ -42,15 +42,19 @@ Product, system, service, campaign, and experience-specific current assets shoul
 
 ## Platform-system identities
 
-The following are substantive GoreeCloud platform systems, not decorative labels:
+The nine Integral Platform Systems are substantive GoreeCloud authorities, not decorative labels:
 
+- **GoreeCloud Manager** — administration, management, and control; its approved product identity is indexed under `products/manager/`.
 - **Privacy Shield → Privacy Center** — platform-wide privacy identity and privacy-control authority.
 - **Wardveil Security → Security Center** — platform-wide security and protection identity.
 - **Everkeep → Continuity Center** — resilience, backup/recovery, preservation, portability, succession, and digital-legacy identity.
 - **Glaze UI → Design Center** — GoreeCloud visual, interaction, adaptation, and interface-design system.
 - **GoreeCloud Mesh → Mesh Center** — application/service coordination and governance plane.
+- **GoreeCloud Identity** — identity, authentication, authorization, and trust; its approved product identity is indexed under `products/identity/`.
+- **GoreeCloud Policy** — shared policy definition, evaluation, decisions, distribution, and enforcement coordination.
+- **GoreeCloud Observability** — operational health, telemetry, diagnostics, performance, and operational evidence.
 
-Approved system artwork is indexed in `systems/README.md`. GoreeCloud Mesh uses the approved **Interlace** identity at `systems/goreecloud-mesh/goreecloud-mesh-mark.svg`.
+Approved dedicated system artwork is indexed in `systems/README.md`; Manager and Identity retain their approved product identities. GoreeCloud Mesh uses the approved **Interlace** identity at `systems/goreecloud-mesh/goreecloud-mesh-mark.svg`, Policy uses **Decision Frame**, and Observability uses **Signal Lens**.
 
 ## Service identities
 
@@ -64,7 +68,7 @@ See `services/README.md` for the full service identity contract.
 
 ## Integration contract
 
-Consumers must reference this repository as `GoreeCloud/goreecloud-branding-assets` for branding provenance. The former `GoreeCloud/goreecloud-logo` repository was deleted after migration and a zero-active-reference audit; it must not be recreated or referenced as a current branding source.
+Consumers must reference this repository as `GoreeCloud/branding-assets` for branding provenance. The former `GoreeCloud/goreecloud-logo` repository was deleted after migration and a zero-active-reference audit; it must not be recreated or referenced as a current branding source.
 
 `catalog.json` is the machine-readable discovery entry point for canonical GoreeCloud platform, product, and platform-system branding paths. `services/catalog.json` is the corresponding authoritative discovery entry point for service identities. Consumer-specific documentation may retain additional local build paths, but it must not redefine canonical branding authority.
 
