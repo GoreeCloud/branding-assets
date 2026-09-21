@@ -6,6 +6,7 @@ This directory is the canonical source for approved GoreeCloud product identity 
 
 Each current product icon is stored at `products/<product>/app-icon.svg`:
 
+- `advanced-tab-manager`
 - `ai`
 - `app-store`
 - `backup`
@@ -18,11 +19,16 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `contacts`
 - `dns`
 - `documents`
+- `download-manager-extension`
 - `drive`
 - `feed`
 - `file-manager`
+- `forms`
 - `gallery`
 - `gateway`
+- `health`
+- `home`
+- `home-security`
 - `identity`
 - `index`
 - `keyboard`
@@ -38,13 +44,21 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `network`
 - `notes`
 - `notify`
+- `office`
 - `photos`
+- `presentations`
+- `reader`
+- `router-os`
 - `search`
+- `social`
+- `spreadsheet`
 - `sync`
 - `tasks`
 - `terminal`
 - `vault`
 - `video`
+- `website`
+- `writer`
 
 ## Consumer contract
 
