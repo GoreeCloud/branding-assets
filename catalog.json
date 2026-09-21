@@ -55,7 +55,7 @@
       "name": "GoreeCloud Policy",
       "center": null,
       "canonical_asset": "systems/policy/policy-icon.svg",
-      "git_blob": "f3b6ac0802060852f0b3fda2090d11331ef7a53b",
+      "git_blob": "86f909a39eaedce9992ceed3a36f63005db6d6de",
       "consumer_repository": "GoreeCloud/policy",
       "status": "approved"
     },
@@ -230,7 +230,7 @@
       "id": "home",
       "name": "GoreeCloud Home",
       "canonical_asset": "products/home/app-icon.svg",
-      "git_blob": "2c20fa6a3eb0219565e2a6f1fb3271ff75045bc1",
+      "git_blob": "450a0c4576bd3a6ce0450675b4278d0529827f35",
       "consumer_repository": "GoreeCloud/goreecloud-home"
     },
     {
