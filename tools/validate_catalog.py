@@ -9,14 +9,16 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalog.json"
-EXPECTED_REPOSITORY = "GoreeCloud/goreecloud-branding-assets"
+EXPECTED_REPOSITORY = "GoreeCloud/branding-assets"
 GIT_BLOB = re.compile(r"^[0-9a-f]{40}$")
 EXPECTED_SYSTEM_CENTERS = {
-    "privacy-shield": "Privacy Center",
-    "wardveil-security": "Security Center",
     "everkeep": "Continuity Center",
     "glaze-ui": "Design Center",
     "goreecloud-mesh": "Mesh Center",
+    "observability": None,
+    "policy": None,
+    "privacy-shield": "Privacy Center",
+    "wardveil-security": "Security Center",
 }
 
 
@@ -77,9 +79,9 @@ def main() -> int:
                 fail(f"duplicate or missing system id: {system_id!r}")
             system_ids.add(system_id)
 
-            expected_center = EXPECTED_SYSTEM_CENTERS.get(system_id)
-            if expected_center is None:
+            if system_id not in EXPECTED_SYSTEM_CENTERS:
                 fail(f"unrecognized GoreeCloud platform system: {system_id}")
+            expected_center = EXPECTED_SYSTEM_CENTERS[system_id]
             if system.get("center") != expected_center:
                 fail(f"system center drift for {system_id}: expected {expected_center!r}")
 
