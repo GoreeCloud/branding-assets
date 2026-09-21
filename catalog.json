@@ -38,7 +38,7 @@
     {"id":"drive","name":"GoreeCloud Drive","canonical_asset":"products/drive/app-icon.svg","git_blob":"a931ebc4e657895128adb6391eb4665c99e74c4a","consumer_repository":"GoreeCloud/goreecloud-drive"},
     {"id":"feed","name":"GoreeCloud Feed","canonical_asset":"products/feed/app-icon.svg","git_blob":"3464434f08f1c200621900ae86a00d04e812a5fb","consumer_repository":"GoreeCloud/goreecloud-rss"},
     {"id":"file-manager","name":"GoreeCloud File Manager","canonical_asset":"products/file-manager/app-icon.svg","git_blob":"c723a84eb2ecb29ef8a0cef845eb1d2cff714cd0","consumer_repository":"GoreeCloud/goreecloud-file-manager"},
-    {"id":"gallery","name":"GoreeCloud Gallery","canonical_asset":"products/gallery/app-icon.svg","git_blob":"ff3085d705b567283dd566a3c02e667866458012","consumer_repository":"GoreeCloud/goreecloud-gallery"},
+    {"id":"gallery","name":"GoreeCloud Gallery","canonical_asset":"products/gallery/app-icon.svg","git_blob":"36caac9551523126b1c5da194be3d1a7706d11e3","consumer_repository":"GoreeCloud/goreecloud-gallery"},
     {"id":"home-security","name":"GoreeCloud Home Security","canonical_asset":"products/home-security/app-icon.svg","git_blob":"df65638fb07e22926194b521f1adefe42142e11b","consumer_repository":"GoreeCloud/goreecloud-home-security","status":"review-candidate"},
     {"id":"gateway","name":"GoreeCloud Gateway","canonical_asset":"products/gateway/app-icon.svg","git_blob":"f8a94f6a6ff5dece3f93bc15531ee5845fa3db61","consumer_repository":"GoreeCloud/goreecloud-gateway"},
     {"id":"identity","name":"GoreeCloud Identity","canonical_asset":"products/identity/app-icon.svg","git_blob":"e7d59b1ac7d1e7f084832ccd284fc8b50cd5a01d","consumer_repository":"GoreeCloud/goreecloud-identity","status":"review-candidate"},
