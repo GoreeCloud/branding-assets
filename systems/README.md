@@ -13,6 +13,7 @@ Platform-system names represent substantive GoreeCloud capabilities and governan
 | Everkeep | Continuity Center | `everkeep/everkeep.svg` | Approved — Keystone 04 | `1c9c66651cf9ffc45421c26551d25eca53564c46` |
 | Glaze UI | Design Center | `glaze-ui/glaze-ui-mark.svg` | Approved — Facet | `18cf43e7b938273e40a0c47a727e971667b1bbde` |
 | GoreeCloud Mesh | Mesh Center | `goreecloud-mesh/goreecloud-mesh-mark.svg` | Approved — Interlace | Native redesign in unified branding repository |
+| GoreeCloud Policy | Policy Center | `goreecloud-policy/goreecloud-policy-mark.svg` | Review candidate — Decision Gate | Native identity refresh candidate |
 
 ## Migration provenance
 
