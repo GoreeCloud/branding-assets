@@ -64,7 +64,7 @@ See `services/README.md` for the full service identity contract.
 
 ## Integration contract
 
-Consumers must reference this repository as `GoreeCloud/goreecloud-branding-assets` for branding provenance. The former `GoreeCloud/goreecloud-logo` repository was deleted after migration and a zero-active-reference audit; it must not be recreated or referenced as a current branding source.
+Consumers must reference this repository as `GoreeCloud/branding-assets` for branding provenance. The former `GoreeCloud/goreecloud-logo` repository was deleted after migration and a zero-active-reference audit; it must not be recreated or referenced as a current branding source.
 
 `catalog.json` is the machine-readable discovery entry point for canonical GoreeCloud platform, product, and platform-system branding paths. `services/catalog.json` is the corresponding authoritative discovery entry point for service identities. Consumer-specific documentation may retain additional local build paths, but it must not redefine canonical branding authority.
 

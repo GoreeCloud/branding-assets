@@ -9,7 +9,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalog.json"
-EXPECTED_REPOSITORY = "GoreeCloud/goreecloud-branding-assets"
+EXPECTED_REPOSITORY = "GoreeCloud/branding-assets"
 GIT_BLOB = re.compile(r"^[0-9a-f]{40}$")
 EXPECTED_SYSTEM_CENTERS = {
     "privacy-shield": "Privacy Center",

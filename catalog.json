@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "canonical_repository": "GoreeCloud/goreecloud-branding-assets",
+  "canonical_repository": "GoreeCloud/branding-assets",
   "policy": {
     "canonical_first": true,
     "consumer_copies_are_derivatives": true,
@@ -14,68 +14,404 @@
     "status": "approved"
   },
   "systems": [
-    {"id":"privacy-shield","name":"Privacy Shield","center":"Privacy Center","canonical_asset":"systems/privacy-shield/privacy-shield-icon.svg","git_blob":"62b10029d4104d0235afe634c21f55d0a826a63d","consumer_repository":"GoreeCloud/goreecloud-privacy-shield","status":"approved"},
-    {"id":"wardveil-security","name":"Wardveil Security","center":"Security Center","canonical_asset":"systems/wardveil-security/wardveil-security-icon.svg","git_blob":"fb3d643cca5477c3f8d4e03ce10a3458fd12f407","consumer_repository":"GoreeCloud/goreecloud-wardveil-security","status":"approved"},
-    {"id":"everkeep","name":"Everkeep","center":"Continuity Center","canonical_asset":"systems/everkeep/everkeep.svg","git_blob":"5f70a483e06147193944c816291d42774a8648b2","consumer_repository":"GoreeCloud/goreecloud-everkeep","status":"approved"},
-    {"id":"glaze-ui","name":"Glaze UI","center":"Design Center","canonical_asset":"systems/glaze-ui/glaze-ui-mark.svg","git_blob":"af8b70387bdaedb8d8388a1660b2d2ca29548fe2","consumer_repository":"GoreeCloud/goreecloud-glaze-ui","status":"approved"},
-    {"id":"goreecloud-mesh","name":"GoreeCloud Mesh","center":"Mesh Center","canonical_asset":"systems/goreecloud-mesh/goreecloud-mesh-mark.svg","git_blob":"5362a52bd9fb38379f083a4d894934ed1acf9b67","consumer_repository":"GoreeCloud/goreecloud-mesh","status":"approved"}
+    {
+      "id": "privacy-shield",
+      "name": "Privacy Shield",
+      "center": "Privacy Center",
+      "canonical_asset": "systems/privacy-shield/privacy-shield-icon.svg",
+      "git_blob": "62b10029d4104d0235afe634c21f55d0a826a63d",
+      "consumer_repository": "GoreeCloud/goreecloud-privacy-shield",
+      "status": "approved"
+    },
+    {
+      "id": "wardveil-security",
+      "name": "Wardveil Security",
+      "center": "Security Center",
+      "canonical_asset": "systems/wardveil-security/wardveil-security-icon.svg",
+      "git_blob": "fb3d643cca5477c3f8d4e03ce10a3458fd12f407",
+      "consumer_repository": "GoreeCloud/goreecloud-wardveil-security",
+      "status": "approved"
+    },
+    {
+      "id": "everkeep",
+      "name": "Everkeep",
+      "center": "Continuity Center",
+      "canonical_asset": "systems/everkeep/everkeep.svg",
+      "git_blob": "5f70a483e06147193944c816291d42774a8648b2",
+      "consumer_repository": "GoreeCloud/goreecloud-everkeep",
+      "status": "approved"
+    },
+    {
+      "id": "glaze-ui",
+      "name": "Glaze UI",
+      "center": "Design Center",
+      "canonical_asset": "systems/glaze-ui/glaze-ui-mark.svg",
+      "git_blob": "af8b70387bdaedb8d8388a1660b2d2ca29548fe2",
+      "consumer_repository": "GoreeCloud/goreecloud-glaze-ui",
+      "status": "approved"
+    },
+    {
+      "id": "goreecloud-mesh",
+      "name": "GoreeCloud Mesh",
+      "center": "Mesh Center",
+      "canonical_asset": "systems/goreecloud-mesh/goreecloud-mesh-mark.svg",
+      "git_blob": "5362a52bd9fb38379f083a4d894934ed1acf9b67",
+      "consumer_repository": "GoreeCloud/goreecloud-mesh",
+      "status": "approved"
+    }
   ],
   "products": [
-    {"id":"ai","name":"GoreeCloud AI","canonical_asset":"products/ai/app-icon.svg","git_blob":"1cbe04748f50cb843eef0cbb7233e2769efa275a","consumer_repository":"GoreeCloud/goreecloud-ai"},
-    {"id":"app-store","name":"GoreeCloud App Store","canonical_asset":"products/app-store/app-icon.svg","git_blob":"05c66a2a4c8edcc194183bb8ffb10ca90d8eaeef","consumer_repository":"GoreeCloud/goreecloud-app-store"},
-    {"id":"backup","name":"GoreeCloud Backup","canonical_asset":"products/backup/app-icon.svg","git_blob":"6e8f2bc02beb4679ed99f2db787e7dc6b4a0f28f","consumer_repository":"GoreeCloud/goreecloud-backup"},
-    {"id":"bookmarks","name":"GoreeCloud Bookmarks","canonical_asset":"products/bookmarks/app-icon.svg","git_blob":"2e9947924708df10844a3a81f47585c4da6b931a","consumer_repository":"GoreeCloud/goreecloud-bookmarks"},
-    {"id":"browser","name":"GoreeCloud Browser","canonical_asset":"products/browser/app-icon.svg","git_blob":"2a81cc68cb8c1831dfd7bec6c3d0b14e2f421f1f","consumer_repository":"GoreeCloud/goreecloud-browser"},
-    {"id":"calendar","name":"GoreeCloud Calendar","canonical_asset":"products/calendar/app-icon.svg","git_blob":"369c42a204c6b130f49f37f91ec0569256a2c19e","consumer_repository":"GoreeCloud/goreecloud-calendar"},
-    {"id":"care","name":"GoreeCloud Care","canonical_asset":"products/care/app-icon.svg","git_blob":"c4568ce4b24b9eb47971ec522317b737f1a509c8","consumer_repository":"GoreeCloud/goreecloud-zorin-os"},
-    {"id":"changelogs","name":"GoreeCloud Changelogs","canonical_asset":"products/changelogs/app-icon.svg","git_blob":"958878ecde32cadd3e646c606534638e4f5e01fb","consumer_repository":"GoreeCloud/goreecloud-changelogs"},
-    {"id":"code","name":"GoreeCloud Code","canonical_asset":"products/code/app-icon.svg","git_blob":"579f0416bd2839bf40e87de7751e319d80bd0bf9","consumer_repository":"GoreeCloud/goreecloud-code"},
-    {"id":"contacts","name":"GoreeCloud Contacts","canonical_asset":"products/contacts/app-icon.svg","git_blob":"22e818436ebef790333fcf56efa79d5bdfff5c88","consumer_repository":"GoreeCloud/goreecloud-contacts"},
-    {"id":"dns","name":"GoreeCloud DNS","canonical_asset":"products/dns/app-icon.svg","git_blob":"99c8e09f4e8e65bde57e671e4fd4beb1bd2fcb4a","consumer_repository":"GoreeCloud/goreecloud-dns"},
-    {"id":"documents","name":"GoreeCloud Documents","canonical_asset":"products/documents/app-icon.svg","git_blob":"58200e22b053fe17a2d80cc69e9908a3a2987a34","consumer_repository":"GoreeCloud/goreecloud-documents"},
-    {"id":"download-manager-extension","name":"GoreeCloud Download Manager Extension","canonical_asset":"products/download-manager-extension/app-icon.svg","git_blob":"5e8c8c99491c8a475e71bc3bfdc325a8f621c6f1","consumer_repository":null},
-    {"id":"drive","name":"GoreeCloud Drive","canonical_asset":"products/drive/app-icon.svg","git_blob":"a931ebc4e657895128adb6391eb4665c99e74c4a","consumer_repository":"GoreeCloud/goreecloud-drive"},
-    {"id":"feed","name":"GoreeCloud Feed","canonical_asset":"products/feed/app-icon.svg","git_blob":"3464434f08f1c200621900ae86a00d04e812a5fb","consumer_repository":"GoreeCloud/goreecloud-rss"},
-    {"id":"file-manager","name":"GoreeCloud File Manager","canonical_asset":"products/file-manager/app-icon.svg","git_blob":"c723a84eb2ecb29ef8a0cef845eb1d2cff714cd0","consumer_repository":"GoreeCloud/goreecloud-file-manager"},
-    {"id":"gallery","name":"GoreeCloud Gallery","canonical_asset":"products/gallery/app-icon.svg","git_blob":"ff3085d705b567283dd566a3c02e667866458012","consumer_repository":"GoreeCloud/goreecloud-gallery"},
-    {"id":"gateway","name":"GoreeCloud Gateway","canonical_asset":"products/gateway/app-icon.svg","git_blob":"f8a94f6a6ff5dece3f93bc15531ee5845fa3db61","consumer_repository":"GoreeCloud/goreecloud-gateway"},
-    {"id":"identity","name":"GoreeCloud Identity","canonical_asset":"products/identity/app-icon.svg","git_blob":"dc8287e385f86767f0105c48a8f234d8440d7623","consumer_repository":"GoreeCloud/goreecloud-identity"},
-    {"id":"index","name":"GoreeCloud Index","canonical_asset":"products/index/app-icon.svg","git_blob":"797cfbd9ae490e37b5a90efe02905159158a8e88","consumer_repository":"GoreeCloud/goreecloud-index"},
-    {"id":"keyboard","name":"GoreeCloud Keyboard","canonical_asset":"products/keyboard/app-icon.svg","git_blob":"9dea51ca5853dc0faf41d94fbc12ee810480c472","consumer_repository":"GoreeCloud/goreecloud-keyboard"},
-    {"id":"launcher","name":"GoreeCloud Launcher","canonical_asset":"products/launcher/app-icon.svg","git_blob":"d6768114e689058f1c911beca4050f33c96bd7c2","consumer_repository":"GoreeCloud/goreecloud-launcher"},
-    {"id":"location","name":"GoreeCloud Location","canonical_asset":"products/location/app-icon.svg","git_blob":"ceb93b6d814c80ece0929022eb5edcdfbc346e2d","consumer_repository":"GoreeCloud/goreecloud-location"},
-    {"id":"mail","name":"GoreeCloud Mail","canonical_asset":"products/mail/app-icon.svg","git_blob":"6fcc489ccfc6348514755a9a052dc413ee17ccde","consumer_repository":"GoreeCloud/goreecloud-mail"},
-    {"id":"manager","name":"GoreeCloud Manager","canonical_asset":"products/manager/app-icon.svg","git_blob":"024d82d5b5911e426216dfbd6a19d95cd6d71fc3","consumer_repository":"GoreeCloud/goreecloud-manager"},
-    {"id":"maps","name":"GoreeCloud Maps","canonical_asset":"products/maps/app-icon.svg","git_blob":"07b6e52e04c95e1ec9f703a9d323cf799481351c","consumer_repository":"GoreeCloud/goreecloud-maps"},
-    {"id":"memos","name":"GoreeCloud Memos","canonical_asset":"products/memos/app-icon.svg","git_blob":"eb9396c3a1891f6afb96849a29110c6f35e65f19","consumer_repository":"GoreeCloud/goreecloud-memos"},
-    {"id":"messenger","name":"GoreeCloud Messenger","canonical_asset":"products/messenger/app-icon.svg","git_blob":"01102af91a43e100c66877489b94929165ec0430","consumer_repository":"GoreeCloud/goreecloud-messenger"},
-    {"id":"monitor","name":"GoreeCloud Monitor","canonical_asset":"products/monitor/app-icon.svg","git_blob":"f31c9abab93f1e9e45e34e0eef411705228d1a66","consumer_repository":"GoreeCloud/goreecloud-monitor"},
-    {"id":"music","name":"GoreeCloud Music","canonical_asset":"products/music/app-icon.svg","git_blob":"74d7726676faf6447116153da53790e4c272e03c","consumer_repository":"GoreeCloud/goreecloud-music"},
-    {"id":"network","name":"GoreeCloud Network","canonical_asset":"products/network/app-icon.svg","git_blob":"7457cd187d65887189150016b44c28af279635e5","consumer_repository":"GoreeCloud/goreecloud-network"},
-    {"id":"notes","name":"GoreeCloud Notes","canonical_asset":"products/notes/app-icon.svg","git_blob":"9618b85e29f89990320cc3a101f0f3bf6fffc89f","consumer_repository":"GoreeCloud/goreecloud-notes"},
-    {"id":"notify","name":"GoreeCloud Notify","canonical_asset":"products/notify/app-icon.svg","git_blob":"1ce1239cd2319a0f96232b1562ec1f6e68d43815","consumer_repository":"GoreeCloud/goreecloud-notify"},
-    {"id":"photos","name":"GoreeCloud Photos","canonical_asset":"products/photos/app-icon.svg","git_blob":"7cce0f2f1b1fad209577a4e0294f0b767fd06b14","consumer_repository":"GoreeCloud/goreecloud-photos"},
-    {"id":"search","name":"GoreeCloud Search","canonical_asset":"products/search/app-icon.svg","git_blob":"fc441c75d6cc2bd0d88a80d77b60994b34475670","consumer_repository":"GoreeCloud/goreecloud-search"},
-    {"id":"sync","name":"GoreeCloud Sync","canonical_asset":"products/sync/app-icon.svg","git_blob":"91e40049d146881df6befe32d836e260e2bd908c","consumer_repository":"GoreeCloud/goreecloud-sync"},
-    {"id":"tasks","name":"GoreeCloud Tasks","canonical_asset":"products/tasks/app-icon.svg","git_blob":"180e162c81b34a0b1dffd20031b36cbb874e2f61","consumer_repository":"GoreeCloud/goreecloud-tasks"},
-    {"id":"terminal","name":"GoreeCloud Terminal","canonical_asset":"products/terminal/app-icon.svg","git_blob":"fd28f49fc0dd67e2f3e31480942d555914e8fc5b","consumer_repository":"GoreeCloud/goreecloud-terminal"},
-    {"id":"vault","name":"GoreeCloud Vault","canonical_asset":"products/vault/app-icon.svg","git_blob":"c34edae0c57a6bac002fb0f940de7ae26cf1450e","consumer_repository":null},
-    {"id":"video","name":"GoreeCloud Video","canonical_asset":"products/video/app-icon.svg","git_blob":"0fbffa1c5210b5da3934c4615b40d59303c0844c","consumer_repository":"GoreeCloud/goreecloud-video"}
+    {
+      "id": "ai",
+      "name": "GoreeCloud AI",
+      "canonical_asset": "products/ai/app-icon.svg",
+      "git_blob": "1cbe04748f50cb843eef0cbb7233e2769efa275a",
+      "consumer_repository": "GoreeCloud/goreecloud-ai"
+    },
+    {
+      "id": "app-store",
+      "name": "GoreeCloud App Store",
+      "canonical_asset": "products/app-store/app-icon.svg",
+      "git_blob": "1e86041de7cbde9f92ae2ddb9a813b2585b5f788",
+      "consumer_repository": "GoreeCloud/goreecloud-app-store"
+    },
+    {
+      "id": "backup",
+      "name": "GoreeCloud Backup",
+      "canonical_asset": "products/backup/app-icon.svg",
+      "git_blob": "6e8f2bc02beb4679ed99f2db787e7dc6b4a0f28f",
+      "consumer_repository": "GoreeCloud/goreecloud-backup"
+    },
+    {
+      "id": "bookmarks",
+      "name": "GoreeCloud Bookmarks",
+      "canonical_asset": "products/bookmarks/app-icon.svg",
+      "git_blob": "2e9947924708df10844a3a81f47585c4da6b931a",
+      "consumer_repository": "GoreeCloud/goreecloud-bookmarks"
+    },
+    {
+      "id": "browser",
+      "name": "GoreeCloud Browser",
+      "canonical_asset": "products/browser/app-icon.svg",
+      "git_blob": "3f502e5a6dae8ff3cb86dfdc3ae5d2eb2e8b54e1",
+      "consumer_repository": "GoreeCloud/goreecloud-browser"
+    },
+    {
+      "id": "calendar",
+      "name": "GoreeCloud Calendar",
+      "canonical_asset": "products/calendar/app-icon.svg",
+      "git_blob": "369c42a204c6b130f49f37f91ec0569256a2c19e",
+      "consumer_repository": "GoreeCloud/goreecloud-calendar"
+    },
+    {
+      "id": "care",
+      "name": "GoreeCloud Care",
+      "canonical_asset": "products/care/app-icon.svg",
+      "git_blob": "c4568ce4b24b9eb47971ec522317b737f1a509c8",
+      "consumer_repository": "GoreeCloud/goreecloud-zorin-os"
+    },
+    {
+      "id": "changelogs",
+      "name": "GoreeCloud Changelogs",
+      "canonical_asset": "products/changelogs/app-icon.svg",
+      "git_blob": "958878ecde32cadd3e646c606534638e4f5e01fb",
+      "consumer_repository": "GoreeCloud/goreecloud-changelogs"
+    },
+    {
+      "id": "code",
+      "name": "GoreeCloud Code",
+      "canonical_asset": "products/code/app-icon.svg",
+      "git_blob": "579f0416bd2839bf40e87de7751e319d80bd0bf9",
+      "consumer_repository": "GoreeCloud/goreecloud-code"
+    },
+    {
+      "id": "contacts",
+      "name": "GoreeCloud Contacts",
+      "canonical_asset": "products/contacts/app-icon.svg",
+      "git_blob": "22e818436ebef790333fcf56efa79d5bdfff5c88",
+      "consumer_repository": "GoreeCloud/goreecloud-contacts"
+    },
+    {
+      "id": "dns",
+      "name": "GoreeCloud DNS",
+      "canonical_asset": "products/dns/app-icon.svg",
+      "git_blob": "99c8e09f4e8e65bde57e671e4fd4beb1bd2fcb4a",
+      "consumer_repository": "GoreeCloud/goreecloud-dns"
+    },
+    {
+      "id": "documents",
+      "name": "GoreeCloud Documents",
+      "canonical_asset": "products/documents/app-icon.svg",
+      "git_blob": "58200e22b053fe17a2d80cc69e9908a3a2987a34",
+      "consumer_repository": "GoreeCloud/goreecloud-documents"
+    },
+    {
+      "id": "download-manager-extension",
+      "name": "GoreeCloud Download Manager Extension",
+      "canonical_asset": "products/download-manager-extension/app-icon.svg",
+      "git_blob": "5e8c8c99491c8a475e71bc3bfdc325a8f621c6f1",
+      "consumer_repository": null
+    },
+    {
+      "id": "drive",
+      "name": "GoreeCloud Drive",
+      "canonical_asset": "products/drive/app-icon.svg",
+      "git_blob": "a931ebc4e657895128adb6391eb4665c99e74c4a",
+      "consumer_repository": "GoreeCloud/goreecloud-drive"
+    },
+    {
+      "id": "feed",
+      "name": "GoreeCloud Feed",
+      "canonical_asset": "products/feed/app-icon.svg",
+      "git_blob": "3464434f08f1c200621900ae86a00d04e812a5fb",
+      "consumer_repository": "GoreeCloud/goreecloud-rss"
+    },
+    {
+      "id": "file-manager",
+      "name": "GoreeCloud File Manager",
+      "canonical_asset": "products/file-manager/app-icon.svg",
+      "git_blob": "c723a84eb2ecb29ef8a0cef845eb1d2cff714cd0",
+      "consumer_repository": "GoreeCloud/goreecloud-file-manager"
+    },
+    {
+      "id": "gallery",
+      "name": "GoreeCloud Gallery",
+      "canonical_asset": "products/gallery/app-icon.svg",
+      "git_blob": "36caac9551523126b1c5da194be3d1a7706d11e3",
+      "consumer_repository": "GoreeCloud/goreecloud-gallery"
+    },
+    {
+      "id": "gateway",
+      "name": "GoreeCloud Gateway",
+      "canonical_asset": "products/gateway/app-icon.svg",
+      "git_blob": "f8a94f6a6ff5dece3f93bc15531ee5845fa3db61",
+      "consumer_repository": "GoreeCloud/goreecloud-gateway"
+    },
+    {
+      "id": "identity",
+      "name": "GoreeCloud Identity",
+      "canonical_asset": "products/identity/app-icon.svg",
+      "git_blob": "dc8287e385f86767f0105c48a8f234d8440d7623",
+      "consumer_repository": "GoreeCloud/goreecloud-identity"
+    },
+    {
+      "id": "index",
+      "name": "GoreeCloud Index",
+      "canonical_asset": "products/index/app-icon.svg",
+      "git_blob": "797cfbd9ae490e37b5a90efe02905159158a8e88",
+      "consumer_repository": "GoreeCloud/goreecloud-index"
+    },
+    {
+      "id": "keyboard",
+      "name": "GoreeCloud Keyboard",
+      "canonical_asset": "products/keyboard/app-icon.svg",
+      "git_blob": "9dea51ca5853dc0faf41d94fbc12ee810480c472",
+      "consumer_repository": "GoreeCloud/goreecloud-keyboard"
+    },
+    {
+      "id": "launcher",
+      "name": "GoreeCloud Launcher",
+      "canonical_asset": "products/launcher/app-icon.svg",
+      "git_blob": "68ea82c4657253a1396376f715d3582f1417b9ac",
+      "consumer_repository": "GoreeCloud/goreecloud-launcher"
+    },
+    {
+      "id": "location",
+      "name": "GoreeCloud Location",
+      "canonical_asset": "products/location/app-icon.svg",
+      "git_blob": "ceb93b6d814c80ece0929022eb5edcdfbc346e2d",
+      "consumer_repository": "GoreeCloud/goreecloud-location"
+    },
+    {
+      "id": "mail",
+      "name": "GoreeCloud Mail",
+      "canonical_asset": "products/mail/app-icon.svg",
+      "git_blob": "6fcc489ccfc6348514755a9a052dc413ee17ccde",
+      "consumer_repository": "GoreeCloud/goreecloud-mail"
+    },
+    {
+      "id": "manager",
+      "name": "GoreeCloud Manager",
+      "canonical_asset": "products/manager/app-icon.svg",
+      "git_blob": "024d82d5b5911e426216dfbd6a19d95cd6d71fc3",
+      "consumer_repository": "GoreeCloud/goreecloud-manager"
+    },
+    {
+      "id": "maps",
+      "name": "GoreeCloud Maps",
+      "canonical_asset": "products/maps/app-icon.svg",
+      "git_blob": "07b6e52e04c95e1ec9f703a9d323cf799481351c",
+      "consumer_repository": "GoreeCloud/goreecloud-maps"
+    },
+    {
+      "id": "memos",
+      "name": "GoreeCloud Memos",
+      "canonical_asset": "products/memos/app-icon.svg",
+      "git_blob": "eb9396c3a1891f6afb96849a29110c6f35e65f19",
+      "consumer_repository": "GoreeCloud/goreecloud-memos"
+    },
+    {
+      "id": "messenger",
+      "name": "GoreeCloud Messenger",
+      "canonical_asset": "products/messenger/app-icon.svg",
+      "git_blob": "01102af91a43e100c66877489b94929165ec0430",
+      "consumer_repository": "GoreeCloud/goreecloud-messenger"
+    },
+    {
+      "id": "monitor",
+      "name": "GoreeCloud Monitor",
+      "canonical_asset": "products/monitor/app-icon.svg",
+      "git_blob": "f31c9abab93f1e9e45e34e0eef411705228d1a66",
+      "consumer_repository": "GoreeCloud/goreecloud-monitor"
+    },
+    {
+      "id": "music",
+      "name": "GoreeCloud Music",
+      "canonical_asset": "products/music/app-icon.svg",
+      "git_blob": "74d7726676faf6447116153da53790e4c272e03c",
+      "consumer_repository": "GoreeCloud/goreecloud-music"
+    },
+    {
+      "id": "network",
+      "name": "GoreeCloud Network",
+      "canonical_asset": "products/network/app-icon.svg",
+      "git_blob": "7457cd187d65887189150016b44c28af279635e5",
+      "consumer_repository": "GoreeCloud/goreecloud-network"
+    },
+    {
+      "id": "notes",
+      "name": "GoreeCloud Notes",
+      "canonical_asset": "products/notes/app-icon.svg",
+      "git_blob": "9618b85e29f89990320cc3a101f0f3bf6fffc89f",
+      "consumer_repository": "GoreeCloud/goreecloud-notes"
+    },
+    {
+      "id": "notify",
+      "name": "GoreeCloud Notify",
+      "canonical_asset": "products/notify/app-icon.svg",
+      "git_blob": "1ce1239cd2319a0f96232b1562ec1f6e68d43815",
+      "consumer_repository": "GoreeCloud/goreecloud-notify"
+    },
+    {
+      "id": "photos",
+      "name": "GoreeCloud Photos",
+      "canonical_asset": "products/photos/app-icon.svg",
+      "git_blob": "7cce0f2f1b1fad209577a4e0294f0b767fd06b14",
+      "consumer_repository": "GoreeCloud/goreecloud-photos"
+    },
+    {
+      "id": "search",
+      "name": "GoreeCloud Search",
+      "canonical_asset": "products/search/app-icon.svg",
+      "git_blob": "fc441c75d6cc2bd0d88a80d77b60994b34475670",
+      "consumer_repository": "GoreeCloud/goreecloud-search"
+    },
+    {
+      "id": "sync",
+      "name": "GoreeCloud Sync",
+      "canonical_asset": "products/sync/app-icon.svg",
+      "git_blob": "91e40049d146881df6befe32d836e260e2bd908c",
+      "consumer_repository": "GoreeCloud/goreecloud-sync"
+    },
+    {
+      "id": "tasks",
+      "name": "GoreeCloud Tasks",
+      "canonical_asset": "products/tasks/app-icon.svg",
+      "git_blob": "180e162c81b34a0b1dffd20031b36cbb874e2f61",
+      "consumer_repository": "GoreeCloud/goreecloud-tasks"
+    },
+    {
+      "id": "terminal",
+      "name": "GoreeCloud Terminal",
+      "canonical_asset": "products/terminal/app-icon.svg",
+      "git_blob": "fd28f49fc0dd67e2f3e31480942d555914e8fc5b",
+      "consumer_repository": "GoreeCloud/goreecloud-terminal"
+    },
+    {
+      "id": "vault",
+      "name": "GoreeCloud Vault",
+      "canonical_asset": "products/vault/app-icon.svg",
+      "git_blob": "c34edae0c57a6bac002fb0f940de7ae26cf1450e",
+      "consumer_repository": null
+    },
+    {
+      "id": "video",
+      "name": "GoreeCloud Video",
+      "canonical_asset": "products/video/app-icon.svg",
+      "git_blob": "0fbffa1c5210b5da3934c4615b40d59303c0844c",
+      "consumer_repository": "GoreeCloud/goreecloud-video"
+    }
   ],
   "other_consumers": [
-    {"repository":"GoreeCloud/GoreeCloud","branding_contract":"BRANDING.md","relationship":"public-profile"},
-    {"repository":"GoreeCloud/goreecloud-website","branding_contract":"BRANDING.md","relationship":"public-website"},
-    {"repository":"GoreeCloud/goreecloud-suite","branding_contract":"BRANDING.md","relationship":"suite-aggregation"},
-    {"repository":"GoreeCloud/goreecloud-bookmark-browser-extension","branding_contract":"BRANDING.md","relationship":"bookmarks-extension"},
-    {"repository":"GoreeCloud/goreecloud-vault-server","branding_contract":"BRANDING.md","relationship":"vault-server"},
-    {"repository":"GoreeCloud/goreecloud-network-dashboard","branding_contract":"BRANDING.md","relationship":"network-dashboard"},
-    {"repository":"GoreeCloud/goreecloud-network-android","branding_contract":"BRANDING.md","relationship":"network-android"},
-    {"repository":"GoreeCloud/goreecloud-firefox-extensions","branding_contract":"BRANDING.md","relationship":"extension-collection"},
-    {"repository":"GoreeCloud/goreecloud-source-resync","branding_contract":"BRANDING.md","relationship":"utility-extension"},
-    {"repository":"GoreeCloud/goreecloud-redirector","branding_contract":"BRANDING.md","relationship":"utility-extension"},
-    {"repository":"GoreeCloud/goreecloud-quill","branding_contract":"BRANDING.md","relationship":"writing-system"},
-    {"repository":"GoreeCloud/goreecloud-autobiography","branding_contract":"BRANDING.md","relationship":"project-consumer"},
-    {"repository":"GoreeCloud/goreecloud-waypoint","branding_contract":"BRANDING.md","relationship":"project-consumer"},
-    {"repository":"GoreeCloud/goreecloud-github-dashboard","branding_contract":"BRANDING.md","relationship":"project-consumer"}
+    {
+      "repository": "GoreeCloud/GoreeCloud",
+      "branding_contract": "BRANDING.md",
+      "relationship": "public-profile"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-website",
+      "branding_contract": "BRANDING.md",
+      "relationship": "public-website"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-suite",
+      "branding_contract": "BRANDING.md",
+      "relationship": "suite-aggregation"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-bookmark-browser-extension",
+      "branding_contract": "BRANDING.md",
+      "relationship": "bookmarks-extension"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-vault-server",
+      "branding_contract": "BRANDING.md",
+      "relationship": "vault-server"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-network-dashboard",
+      "branding_contract": "BRANDING.md",
+      "relationship": "network-dashboard"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-network-android",
+      "branding_contract": "BRANDING.md",
+      "relationship": "network-android"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-firefox-extensions",
+      "branding_contract": "BRANDING.md",
+      "relationship": "extension-collection"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-source-resync",
+      "branding_contract": "BRANDING.md",
+      "relationship": "utility-extension"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-redirector",
+      "branding_contract": "BRANDING.md",
+      "relationship": "utility-extension"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-quill",
+      "branding_contract": "BRANDING.md",
+      "relationship": "writing-system"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-autobiography",
+      "branding_contract": "BRANDING.md",
+      "relationship": "project-consumer"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-waypoint",
+      "branding_contract": "BRANDING.md",
+      "relationship": "project-consumer"
+    },
+    {
+      "repository": "GoreeCloud/goreecloud-github-dashboard",
+      "branding_contract": "BRANDING.md",
+      "relationship": "project-consumer"
+    }
   ]
 }
