@@ -65,7 +65,7 @@
       "center": "Privacy Center",
       "canonical_asset": "systems/privacy-shield/privacy-shield-icon.svg",
       "git_blob": "e8afe0ff90f1cbc79e43804771b5efc40f9015c9",
-      "consumer_repository": "GoreeCloud/goreecloud-privacy-shield",
+      "consumer_repository": "GoreeCloud/privacy-shield",
       "status": "approved"
     },
     {
@@ -74,7 +74,7 @@
       "center": "Security Center",
       "canonical_asset": "systems/wardveil-security/wardveil-security-icon.svg",
       "git_blob": "fb3d643cca5477c3f8d4e03ce10a3458fd12f407",
-      "consumer_repository": "GoreeCloud/goreecloud-wardveil-security",
+      "consumer_repository": "GoreeCloud/wardveil",
       "status": "approved"
     }
   ],
@@ -119,7 +119,7 @@
       "name": "GoreeCloud Browser",
       "canonical_asset": "products/browser/app-icon.svg",
       "git_blob": "3f502e5a6dae8ff3cb86dfdc3ae5d2eb2e8b54e1",
-      "consumer_repository": "GoreeCloud/goreecloud-browser"
+      "consumer_repository": "GoreeCloud/browser"
     },
     {
       "id": "calendar",
@@ -280,7 +280,7 @@
       "name": "GoreeCloud Mail",
       "canonical_asset": "products/mail/app-icon.svg",
       "git_blob": "6fcc489ccfc6348514755a9a052dc413ee17ccde",
-      "consumer_repository": "GoreeCloud/goreecloud-mail"
+      "consumer_repository": "GoreeCloud/mail"
     },
     {
       "id": "manager",
@@ -308,7 +308,7 @@
       "name": "GoreeCloud Messenger",
       "canonical_asset": "products/messenger/app-icon.svg",
       "git_blob": "01102af91a43e100c66877489b94929165ec0430",
-      "consumer_repository": "GoreeCloud/goreecloud-messenger"
+      "consumer_repository": "GoreeCloud/messenger"
     },
     {
       "id": "monitor",
