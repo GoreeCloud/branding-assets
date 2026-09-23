@@ -60,7 +60,7 @@ Priority redesign targets:
 
 ## Asset authority
 
-Approved master SVG/vector assets and Android-ready adaptive-icon foreground/background derivatives belong in `GoreeCloud/goreecloud-branding-assets`. Product repositories consume or synchronize approved assets and must not become independent branding authorities.
+Approved master SVG/vector assets and Android-ready adaptive-icon foreground/background derivatives belong in `GoreeCloud/branding-assets`. Product repositories consume or synchronize approved assets and must not become independent branding authorities.
 
 ## Acceptance
 
