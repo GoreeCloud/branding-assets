@@ -50,6 +50,7 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `reader`
 - `router-os`
 - `search`
+- `since`
 - `social`
 - `spreadsheet`
 - `sync`
