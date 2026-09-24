@@ -6,7 +6,7 @@
 - **Approved platform mark:** August 19, 2026
 - **Wordmark direction selected:** August 19, 2026
 - **Document type:** Brand identity and artwork record
-- **Authoritative repository:** `GoreeCloud/goreecloud-branding-assets`
+- **Authoritative repository:** `GoreeCloud/branding-assets`
 - **Canonical artwork:** `official/goreecloud-logo.svg`
 - **Identity:** GoreeCloud platform / ecosystem
 - **Platform-symbol design direction:** Unified Clean

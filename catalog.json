@@ -388,6 +388,13 @@
       "consumer_repository": "GoreeCloud/goreecloud-search"
     },
     {
+      "id": "since",
+      "name": "GoreeCloud Since",
+      "canonical_asset": "products/since/app-icon.svg",
+      "git_blob": "a107f860759e745ff16f2b5bf1954b93fbb17937",
+      "consumer_repository": "GoreeCloud/android-app-defaults"
+    },
+    {
       "id": "social",
       "name": "GoreeCloud Social",
       "canonical_asset": "products/social/app-icon.svg",
