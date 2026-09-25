@@ -119,7 +119,7 @@
       "name": "GoreeCloud Browser",
       "canonical_asset": "products/browser/app-icon.svg",
       "git_blob": "3f502e5a6dae8ff3cb86dfdc3ae5d2eb2e8b54e1",
-      "consumer_repository": "GoreeCloud/goreecloud-browser"
+      "consumer_repository": "GoreeCloud/browser"
     },
     {
       "id": "calendar",
