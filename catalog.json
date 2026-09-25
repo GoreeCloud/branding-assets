@@ -101,11 +101,11 @@
       "consumer_repository": "GoreeCloud/goreecloud-app-store"
     },
     {
-      "id": "backup",
-      "name": "GoreeCloud Backup",
-      "canonical_asset": "products/backup/app-icon.svg",
-      "git_blob": "6e8f2bc02beb4679ed99f2db787e7dc6b4a0f28f",
-      "consumer_repository": "GoreeCloud/goreecloud-backup"
+      "id": "backups",
+      "name": "GoreeCloud Backups",
+      "canonical_asset": "products/backups/app-icon.svg",
+      "git_blob": "7a73f739c43ca35ad043b68cae632e84a8a68218",
+      "consumer_repository": "GoreeCloud/backups"
     },
     {
       "id": "bookmarks",
