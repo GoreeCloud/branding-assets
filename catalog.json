@@ -64,7 +64,7 @@
       "name": "Privacy Shield",
       "center": "Privacy Center",
       "canonical_asset": "systems/privacy-shield/privacy-shield-icon.svg",
-      "git_blob": "e8afe0ff90f1cbc79e43804771b5efc40f9015c9",
+      "git_blob": "deed6ebfaae4cc339dbc8273070c36e108035aed",
       "consumer_repository": "GoreeCloud/goreecloud-privacy-shield",
       "status": "approved"
     },
