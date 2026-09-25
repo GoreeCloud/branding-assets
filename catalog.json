@@ -65,7 +65,7 @@
       "center": "Privacy Center",
       "canonical_asset": "systems/privacy-shield/privacy-shield-icon.svg",
       "git_blob": "e8afe0ff90f1cbc79e43804771b5efc40f9015c9",
-      "consumer_repository": "GoreeCloud/goreecloud-privacy-shield",
+      "consumer_repository": "GoreeCloud/privacy-shield",
       "status": "approved"
     },
     {
@@ -74,7 +74,7 @@
       "center": "Security Center",
       "canonical_asset": "systems/wardveil-security/wardveil-security-icon.svg",
       "git_blob": "fb3d643cca5477c3f8d4e03ce10a3458fd12f407",
-      "consumer_repository": "GoreeCloud/goreecloud-wardveil-security",
+      "consumer_repository": "GoreeCloud/wardveil",
       "status": "approved"
     }
   ],
