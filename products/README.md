@@ -9,7 +9,7 @@ Each current product icon is stored at `products/<product>/app-icon.svg`:
 - `advanced-tab-manager`
 - `ai`
 - `app-store`
-- `backup`
+- `backups`
 - `bookmarks`
 - `browser`
 - `calendar`
