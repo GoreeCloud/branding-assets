@@ -73,7 +73,7 @@
       "name": "Wardveil Security",
       "center": "Security Center",
       "canonical_asset": "systems/wardveil-security/wardveil-security-icon.svg",
-      "git_blob": "fb3d643cca5477c3f8d4e03ce10a3458fd12f407",
+      "git_blob": "e8997c6472289f2f013dbba8dbdba6b9d465f2ef",
       "consumer_repository": "GoreeCloud/goreecloud-wardveil-security",
       "status": "approved"
     }
