@@ -98,7 +98,7 @@
       "name": "GoreeCloud App Store",
       "canonical_asset": "products/app-store/app-icon.svg",
       "git_blob": "1e86041de7cbde9f92ae2ddb9a813b2585b5f788",
-      "consumer_repository": "GoreeCloud/goreecloud-app-store"
+      "consumer_repository": "GoreeCloud/app-store"
     },
     {
       "id": "backups",
@@ -129,6 +129,13 @@
       "consumer_repository": "GoreeCloud/goreecloud-calendar"
     },
     {
+      "id": "camera",
+      "name": "GoreeCloud Camera",
+      "canonical_asset": "products/camera/app-icon.svg",
+      "git_blob": "9cab2b56f473ecbbf26383cc0233c55277addc1a",
+      "consumer_repository": "GoreeCloud/camera"
+    },
+    {
       "id": "care",
       "name": "GoreeCloud Care",
       "canonical_asset": "products/care/app-icon.svg",
@@ -155,6 +162,13 @@
       "canonical_asset": "products/contacts/app-icon.svg",
       "git_blob": "22e818436ebef790333fcf56efa79d5bdfff5c88",
       "consumer_repository": "GoreeCloud/goreecloud-contacts"
+    },
+    {
+      "id": "dialer",
+      "name": "GoreeCloud Dialer",
+      "canonical_asset": "products/dialer/app-icon.svg",
+      "git_blob": "acaf57c51a76352fc0159b554c556e545b432c33",
+      "consumer_repository": "GoreeCloud/dialer"
     },
     {
       "id": "dns",
@@ -218,6 +232,13 @@
       "canonical_asset": "products/gateway/app-icon.svg",
       "git_blob": "f8a94f6a6ff5dece3f93bc15531ee5845fa3db61",
       "consumer_repository": "GoreeCloud/goreecloud-gateway"
+    },
+    {
+      "id": "github-dashboard",
+      "name": "GoreeCloud GitHub Dashboard",
+      "canonical_asset": "products/github-dashboard/app-icon.svg",
+      "git_blob": "dfbec8258e7b024ead3860f84627073aae25f13e",
+      "consumer_repository": "GoreeCloud/github-dashboard"
     },
     {
       "id": "health",
@@ -351,6 +372,13 @@
       "canonical_asset": "products/office/app-icon.svg",
       "git_blob": "5fa48685135cb1f805597558731b5a424e06844b",
       "consumer_repository": "GoreeCloud/goreecloud-office"
+    },
+    {
+      "id": "pdf-manager",
+      "name": "GoreeCloud PDF Manager",
+      "canonical_asset": "products/pdf-manager/app-icon.svg",
+      "git_blob": "0da0138e02fcca224a0fb5363640da42bb547309",
+      "consumer_repository": "GoreeCloud/pdf-manager"
     },
     {
       "id": "photos",
@@ -521,11 +549,6 @@
     },
     {
       "repository": "GoreeCloud/goreecloud-waypoint",
-      "branding_contract": "BRANDING.md",
-      "relationship": "project-consumer"
-    },
-    {
-      "repository": "GoreeCloud/goreecloud-github-dashboard",
       "branding_contract": "BRANDING.md",
       "relationship": "project-consumer"
     }
