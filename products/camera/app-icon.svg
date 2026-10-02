@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">GoreeCloud Camera</title>
+  <defs>
+    <linearGradient id="g" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <path d="M16 22h7l3-5h12l3 5h7a5 5 0 0 1 5 5v19a5 5 0 0 1-5 5H16a5 5 0 0 1-5-5V27a5 5 0 0 1 5-5Z" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="32" cy="36" r="9" fill="none" stroke="#FFFFFF" stroke-width="3.5"/>
+  <path d="M27 29.5 32 36l6.2-4.8M25.5 39.5 32 36l2.4 7.7" fill="none" stroke="#DDF7FF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="28" r="2" fill="#DDF7FF"/>
+</svg>
