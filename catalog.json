@@ -455,7 +455,7 @@
       "name": "GoreeCloud Terminal",
       "canonical_asset": "products/terminal/app-icon.svg",
       "git_blob": "fd28f49fc0dd67e2f3e31480942d555914e8fc5b",
-      "consumer_repository": "GoreeCloud/goreecloud-terminal"
+      "consumer_repository": "GoreeCloud/terminal"
     },
     {
       "id": "vault",
