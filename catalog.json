@@ -322,7 +322,7 @@
       "name": "GoreeCloud Memos",
       "canonical_asset": "products/memos/app-icon.svg",
       "git_blob": "eb9396c3a1891f6afb96849a29110c6f35e65f19",
-      "consumer_repository": "GoreeCloud/goreecloud-memos"
+      "consumer_repository": "GoreeCloud/memos"
     },
     {
       "id": "messenger",
