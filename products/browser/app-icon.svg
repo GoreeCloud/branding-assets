@@ -1,1 +1,15 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">GoreeCloud Browser â€” Cloud G</title>
+  <defs>
+    <linearGradient id="blue" x1="9" y1="7" x2="56" y2="59" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F91FF"/><stop offset=".58" stop-color="#1E64CE"/><stop offset="1" stop-color="#173C85"/>
+    </linearGradient>
+    <linearGradient id="light" x1="32" y1="33" x2="49" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DDF3FF"/><stop offset="1" stop-color="#8BD4FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="17" fill="url(#blue)"/>
+  <path d="M42.4 23.5c-2.8-4.1-7.2-6.2-12.1-5.5-5.5.8-9.3 4.4-10.8 9.2-4.5.8-7.8 4.7-7.8 9.2 0 5.5 4.4 9.9 9.9 9.9h11.6" fill="none" stroke="#FFFFFF" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31.5 34.6h16v11.7H38" fill="none" stroke="url(#light)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47.5 40.4h-6.5" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

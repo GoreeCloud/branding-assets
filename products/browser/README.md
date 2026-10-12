@@ -1,21 +1,12 @@
-# GoreeCloud Browser Identity
+# GoreeCloud Browser — Cloud G identity (development candidate)
 
-**Product:** GoreeCloud Browser  
-**Consumer repository:** `GoreeCloud/browser`
+**Owner request, October 12 2026:** Immediately replace the former compass icon because its visual similarity to Apple Safari is unacceptable.
 
-## Canonical assets
+## Canonical identity
+- `app-icon.svg`: full-color blue Glaze rounded-square field with a distinct open cloud silhouette and cyan G terminal.
+- `app-icon-monochrome.svg`: faithful one-color symbol for themed, high-contrast and platform-native derivatives.
 
-- `app-icon.svg` — canonical full-color Browser application icon.
-- `app-icon-monochrome.svg` — canonical monochrome Browser identity source for themed, single-color, high-contrast, and platform-derived treatments.
+## Design contract
+The Cloud G is a GoreeCloud cloud-and-workspace monogram, not a compass: it contains no directional needle, compass ring, compass optical center, globe, or borrowed third-party Browser shape. Preserve the cloud outline, G terminal, small-size legibility and contrast. Do not reuse historical Tabmark/window concepts or unrelated GoreeCloud product marks.
 
-The owner retired the blue compass mark on October 12, 2026 because its silhouette resembled Safari. The new canonical Cloud G is a distinct open-cloud monogram with a short G terminal, not a compass ring or needle. Consumer repositories may retain deterministic platform derivatives, but these copies do not become independent branding authority.
-
-## Derivative rule
-
-Platform derivatives must preserve the open cloud arc, distinctive G terminal, and small-size legibility; compass rings, needles, and directional roses are retired. Material, masking, padding, and color may adapt to the destination platform while preserving identity and accessibility.
-
-Do not substitute stale Tabmark/window artwork, generic framework/browser icons, third-party browser branding, or independently invented Browser marks.
-
-## GoreeCloud boundaries
-
-Branding establishes product identity only. It does not imply privacy protection, security verification, synchronization state, release maturity, or production acceptance.
+Consumer repositories such as `GoreeCloud/browser` are derivatives. Synchronize each platform copy from the approved canonical revision and document source SHA; platform render, accessibility and production checks are separate release gates. This candidate does not certify production approval.
