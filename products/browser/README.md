@@ -1,12 +1,14 @@
-# GoreeCloud Browser — Cloud G identity (development candidate)
+# GoreeCloud Browser — Web Portal identity
 
-**Owner request, October 12 2026:** Immediately replace the former compass icon because its visual similarity to Apple Safari is unacceptable.
+The Browser logo must look like a **web browser**, not a G. The owner retired the Safari-like compass and then rejected the Cloud G monogram on October 12, 2026.
 
-## Canonical identity
-- `app-icon.svg`: full-color blue Glaze rounded-square field with a distinct open cloud silhouette and cyan G terminal.
-- `app-icon-monochrome.svg`: faithful one-color symbol for themed, high-contrast and platform-native derivatives.
+## Canonical files
 
-## Design contract
-The Cloud G is a GoreeCloud cloud-and-workspace monogram, not a compass: it contains no directional needle, compass ring, compass optical center, globe, or borrowed third-party Browser shape. Preserve the cloud outline, G terminal, small-size legibility and contrast. Do not reuse historical Tabmark/window concepts or unrelated GoreeCloud product marks.
+- `app-icon.svg`: GoreeCloud blue Web Portal emblem: tabbed browser window, top browser/address controls, and centered web globe
+- `app-icon-monochrome.svg`: faithful single-color equivalent for themed and high-contrast icons
 
-Consumer repositories such as `GoreeCloud/browser` are derivatives. Synchronize each platform copy from the approved canonical revision and document source SHA; platform render, accessibility and production checks are separate release gates. This candidate does not certify production approval.
+At small sizes the top tab, browser frame, chrome divider and web globe must remain legible. Do not use a G, compass needle/rose, Safari artwork, copied third-party browser element, or unrelated app logo.
+
+The branding repository is authoritative. Linux and Android consumer resources in `GoreeCloud/browser` must derive from canonical geometry, preserve color/monochrome consistency and maintain exact source-integrity hash guards. Historical branch names containing `cloud-g` describe superseded review history, not the proposed mark.
+
+Native rendering, Android launcher packaging, accessibility, source verification, CI, approvals and Stable release are separate gates. This review branch does not modify main or installed Browser.
