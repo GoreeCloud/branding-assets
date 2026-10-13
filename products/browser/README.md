@@ -1,21 +1,14 @@
-# GoreeCloud Browser Identity
+# GoreeCloud Browser — Web Portal identity
 
-**Product:** GoreeCloud Browser  
-**Consumer repository:** `GoreeCloud/browser`
+The Browser logo must look like a **web browser**, not a G. The owner retired the Safari-like compass and then rejected the Cloud G monogram on October 12, 2026.
 
-## Canonical assets
+## Canonical files
 
-- `app-icon.svg` — canonical full-color Browser application icon.
-- `app-icon-monochrome.svg` — canonical monochrome Browser identity source for themed, single-color, high-contrast, and platform-derived treatments.
+- `app-icon.svg`: GoreeCloud blue Web Portal emblem: tabbed browser window, top browser/address controls, and centered web globe
+- `app-icon-monochrome.svg`: faithful single-color equivalent for themed and high-contrast icons
 
-The current Browser identity is the blue compass mark represented by these files. Consumer repositories may retain deterministic derivatives required for packaging or runtime use, but those copies do not become independent branding authority.
+At small sizes the top tab, browser frame, chrome divider and web globe must remain legible. Do not use a G, compass needle/rose, Safari artwork, copied third-party browser element, or unrelated app logo.
 
-## Derivative rule
+The branding repository is authoritative. Linux and Android consumer resources in `GoreeCloud/browser` must derive from canonical geometry, preserve color/monochrome consistency and maintain exact source-integrity hash guards. Historical branch names containing `cloud-g` describe superseded review history, not the proposed mark.
 
-Platform derivatives must preserve the compass ring, needle, optical center, and overall recognition silhouette. Material, masking, padding, and color may adapt to the destination platform while preserving identity and accessibility.
-
-Do not substitute stale Tabmark/window artwork, generic framework/browser icons, third-party browser branding, or independently invented Browser marks.
-
-## GoreeCloud boundaries
-
-Branding establishes product identity only. It does not imply privacy protection, security verification, synchronization state, release maturity, or production acceptance.
+Native rendering, Android launcher packaging, accessibility, source verification, CI, approvals and Stable release are separate gates. This review branch does not modify main or installed Browser.
