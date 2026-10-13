@@ -132,6 +132,26 @@ def main() -> int:
             product_paths.add(asset)
             require_pinned_file(str(asset), str(product.get("git_blob", "")), f"product {product_id}")
 
+            # Optional companion variants are independently pinned rather than
+            # silently accepted whenever the canonical color asset is approved.
+            # Products without a monochrome design remain unaffected.
+            monochrome = product.get("monochrome_asset")
+            mono_blob = product.get("monochrome_git_blob")
+            if monochrome is not None or mono_blob is not None:
+                expected_mono = f"products/{product_id}/app-icon-monochrome.svg"
+                if monochrome != expected_mono:
+                    fail(
+                        f"product monochrome path drift for {product_id}: "
+                        f"expected {expected_mono!r}, got {monochrome!r}"
+                    )
+                if monochrome in product_paths:
+                    fail(f"duplicate product canonical variant: {monochrome}")
+                product_paths.add(monochrome)
+                require_pinned_file(
+                    str(monochrome), str(mono_blob or ""),
+                    f"product {product_id} monochrome",
+                )
+
             repo = product.get("consumer_repository")
             if repo is not None:
                 if not str(repo).startswith("GoreeCloud/"):
