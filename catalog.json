@@ -119,6 +119,8 @@
       "name": "GoreeCloud Browser",
       "canonical_asset": "products/browser/app-icon.svg",
       "git_blob": "f5120ddaf88fd84c1372443106fdc954b1fc8629",
+      "monochrome_asset": "products/browser/app-icon-monochrome.svg",
+      "monochrome_git_blob": "d475b4065e348b6c153268f6e51948c04fd2dcd2",
       "consumer_repository": "GoreeCloud/browser"
     },
     {
