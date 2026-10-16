@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">GoreeCloud Markdown — monochrome icon candidate</title>
+  <desc id="desc">Outlined split document, Markdown hash symbol on the left, rendered heading lines on the right.</desc>
+  <path d="M16 14h19v38H16a5 5 0 0 1-5-5V19a5 5 0 0 1 5-5Zm19 0h13a5 5 0 0 1 5 5v28a5 5 0 0 1-5 5H35" fill="none" stroke="#000" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 24v17M27 24v17M17 29h13M17 36h13M41 25h6M41 32h7M41 39h7" fill="none" stroke="#000" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

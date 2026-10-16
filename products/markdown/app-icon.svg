@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">GoreeCloud Markdown — candidate icon</title>
+  <desc id="desc">A two-pane document: Markdown source symbol on a forest-green left leaf, and rendered heading lines on a warm paper right leaf.</desc>
+  <rect width="64" height="64" rx="16" fill="#F7F5F0"/>
+  <path d="M15 13h20v39H15c-2.8 0-5-2.2-5-5V18c0-2.8 2.2-5 5-5Z" fill="#286B4B"/>
+  <path d="M35 13h14c2.8 0 5 2.2 5 5v29c0 2.8-2.2 5-5 5H35V13Z" fill="#FFF5E9" stroke="#8F4430" stroke-width="2.2"/>
+  <path d="M19.3 23v17M27 23v17M16 29.1h14M16 35h14" fill="none" stroke="#F7F5F0" stroke-width="2.9" stroke-linecap="round"/>
+  <path d="M41 24h7M41 30h8M41 36h8M41 42h5" fill="none" stroke="#8F4430" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M35 13v39" stroke="#F0D5BE" stroke-width="1.3"/>
+</svg>
