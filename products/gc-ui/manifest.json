@@ -45,5 +45,155 @@
     "GoreeCloud platform identity",
     "Glaze UI"
   ],
-  "rendering": "outlined wordmark; no distributed font files"
+  "rendering": "outlined wordmark; no distributed font files",
+  "rasterExports": [
+    {
+      "path": "products/gc-ui/app-icon-1024.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "5473bf28c8067ff0ed48ce3580dca4c6591c222424bd2e3583bb9038ff4a3b62"
+    },
+    {
+      "path": "products/gc-ui/app-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "sha256": "15de3a0f43319b78c05842bd92c46bb15a7174c22cff07c1a911237fde460cef"
+    },
+    {
+      "path": "products/gc-ui/app-icon-144.png",
+      "width": 144,
+      "height": 144,
+      "sha256": "1c1a346a161ec6243f00c6e0fe4bbc5b2ed83afb2f20366ebed486b74402ea80"
+    },
+    {
+      "path": "products/gc-ui/app-icon-16.png",
+      "width": 16,
+      "height": 16,
+      "sha256": "e91834a4b910814fc3abdb87e58640fa718d9be57350d355dcc5bfdc24a1906e"
+    },
+    {
+      "path": "products/gc-ui/app-icon-180.png",
+      "width": 180,
+      "height": 180,
+      "sha256": "a0838e0f32612bb4a24d7f0bc2d946170fb7acff5aa162b06796911949c0738b"
+    },
+    {
+      "path": "products/gc-ui/app-icon-192.png",
+      "width": 192,
+      "height": 192,
+      "sha256": "fc3d826b970b2c4a164b5fda9c0160fe87b0bea29ddd88649d2c47684d83c925"
+    },
+    {
+      "path": "products/gc-ui/app-icon-256.png",
+      "width": 256,
+      "height": 256,
+      "sha256": "3236efefaeff33e4de2c89ce6aee81a3661a92aacb28d2f13cc164b53076a434"
+    },
+    {
+      "path": "products/gc-ui/app-icon-32.png",
+      "width": 32,
+      "height": 32,
+      "sha256": "dc34a00a8e48851deab25565ff06ddb11da1b61d895a6cde73633a61b0c2923f"
+    },
+    {
+      "path": "products/gc-ui/app-icon-48.png",
+      "width": 48,
+      "height": 48,
+      "sha256": "2f1e6f4bd4cb83c44f34a5e9a4fb11db17ee1bc60877160fee9b4e3e3a9facdb"
+    },
+    {
+      "path": "products/gc-ui/app-icon-512.png",
+      "width": 512,
+      "height": 512,
+      "sha256": "b03d049c00dd7a1102c4b9d2ed1faa66de3ee30ab92738d2a7614bbcc5a1a093"
+    },
+    {
+      "path": "products/gc-ui/app-icon-64.png",
+      "width": 64,
+      "height": 64,
+      "sha256": "fe90b88f1a7459b421383a90b58a9f9596a657f463e388d27ec5ecb514f48f2a"
+    },
+    {
+      "path": "products/gc-ui/app-icon-72.png",
+      "width": 72,
+      "height": 72,
+      "sha256": "dd57fd8c23f98007333d0a52dd66c118f42c236a03adc1ba6a446e74cce24f8d"
+    },
+    {
+      "path": "products/gc-ui/app-icon-96.png",
+      "width": 96,
+      "height": 96,
+      "sha256": "a6ca5e284272f1a1391795dd42c3ab7192a1ca0e66ace832a7c0c05561b82f98"
+    },
+    {
+      "path": "products/gc-ui/app-icon-monochrome-192.png",
+      "width": 192,
+      "height": 192,
+      "sha256": "9e92167b6d389be26c816aacda2f9789552fafa5ceda96b155977151a20f5564"
+    },
+    {
+      "path": "products/gc-ui/app-icon-monochrome-512.png",
+      "width": 512,
+      "height": 512,
+      "sha256": "f8367d740115345505023d90cea63f2f60c92f2a7497ad96e06f122da7b06a63"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-logo-1106.png",
+      "width": 1106,
+      "height": 380,
+      "sha256": "6006e4f894b9cae62a6e97691474dc952c323649abf48d15188079ca8089d2e0"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-logo-553.png",
+      "width": 553,
+      "height": 190,
+      "sha256": "3e631848a1bbe10956678ac505f2d4c52b9e0ff576095acbf7c4d0fcfdf4971f"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-logo-dark-1106.png",
+      "width": 1106,
+      "height": 380,
+      "sha256": "060f342649924755297a67ba51fba7d286116e09c47830d8f3381c6f40aa7c92"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-logo-dark-553.png",
+      "width": 553,
+      "height": 190,
+      "sha256": "f09e42ed24a1454b69ccc2e031441886ff720ec8c732b4c5d0d7b89b2aba393c"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-symbol-128.png",
+      "width": 128,
+      "height": 128,
+      "sha256": "de4f5d386d70c8b8973bc2d886dfe2b3689f3f1b6ff2fd33e8b495fe26e72278"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-symbol-256.png",
+      "width": 256,
+      "height": 256,
+      "sha256": "1915918a16ecca08193af0bb8f5f7fd2ca5fd6ca0ec02f7325ccecad6be7c0f0"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-symbol-512.png",
+      "width": 512,
+      "height": 512,
+      "sha256": "1ef22148b180eb1908351b1385c904f0532355549806489983fd3fb695d8947b"
+    },
+    {
+      "path": "products/gc-ui/gc-ui-symbol-64.png",
+      "width": 64,
+      "height": 64,
+      "sha256": "927bb5c1f9815144e71e06e1f667610b82c036da4970af03b8751cd3c3b841aa"
+    }
+  ],
+  "favicon": {
+    "path": "products/gc-ui/favicon.ico",
+    "sha256": "adb74bf7d9c36900a1061abfedc14bfb7bd934cee0f2340901041b8316b562bb",
+    "sizes": [
+      16,
+      32,
+      48
+    ]
+  },
+  "generator": "products/gc-ui/tools/build_rasters.py"
 }
