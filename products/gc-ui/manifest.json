@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "identity": "GC UI",
+  "productId": "gc-ui",
+  "identityVersion": "1.0.0",
+  "canonicalRepository": "GoreeCloud/branding-assets",
+  "consumerRepository": "GoreeCloud/gc-ui",
+  "primaryIcon": "products/gc-ui/app-icon.svg",
+  "primarySymbol": "products/gc-ui/gc-ui-symbol.svg",
+  "primaryHorizontalLogo": "products/gc-ui/gc-ui-logo.svg",
+  "variants": {
+    "app-icon.svg": {
+      "path": "products/gc-ui/app-icon.svg",
+      "gitBlob": "d3d2f4f2ae241e172691de8c8f6bef628331a350"
+    },
+    "app-icon-monochrome.svg": {
+      "path": "products/gc-ui/app-icon-monochrome.svg",
+      "gitBlob": "c17b26f393f0f5797517252cea15106e023d29a4"
+    },
+    "gc-ui-symbol.svg": {
+      "path": "products/gc-ui/gc-ui-symbol.svg",
+      "gitBlob": "613dfb1747f251d86a1faa6e12c83836b2a950b7"
+    },
+    "gc-ui-symbol-monochrome.svg": {
+      "path": "products/gc-ui/gc-ui-symbol-monochrome.svg",
+      "gitBlob": "ccc611c4bf51d0ede74332c7990dc406d645af85"
+    },
+    "gc-ui-logo.svg": {
+      "path": "products/gc-ui/gc-ui-logo.svg",
+      "gitBlob": "95a7b63c6928d4e2d79f6afbd41025bc887d7c1c"
+    },
+    "gc-ui-logo-dark.svg": {
+      "path": "products/gc-ui/gc-ui-logo-dark.svg",
+      "gitBlob": "9c36aec87107552fa703798a2b09adb610175572"
+    }
+  },
+  "exportNotes": "Generated PNG derivatives are subordinate to the SVG sources. Regenerate with tools/rasterize_gc_ui.py or CairoSVG when the source changes.",
+  "colors": {
+    "blue": "#6564FF",
+    "cyan": "#44C9F5",
+    "ink": "#15213A",
+    "navy": "#0D1730"
+  },
+  "distinctFrom": [
+    "GoreeCloud platform identity",
+    "Glaze UI"
+  ],
+  "rendering": "outlined wordmark; no distributed font files"
+}

@@ -236,6 +236,21 @@
       "consumer_repository": "GoreeCloud/goreecloud-gateway"
     },
     {
+      "id": "gc-ui",
+      "name": "GC UI",
+      "canonical_asset": "products/gc-ui/app-icon.svg",
+      "git_blob": "d3d2f4f2ae241e172691de8c8f6bef628331a350",
+      "monochrome_asset": "products/gc-ui/app-icon-monochrome.svg",
+      "monochrome_git_blob": "c17b26f393f0f5797517252cea15106e023d29a4",
+      "consumer_repository": "GoreeCloud/gc-ui",
+      "symbol_asset": "products/gc-ui/gc-ui-symbol.svg",
+      "symbol_git_blob": "613dfb1747f251d86a1faa6e12c83836b2a950b7",
+      "logo_asset": "products/gc-ui/gc-ui-logo.svg",
+      "logo_git_blob": "95a7b63c6928d4e2d79f6afbd41025bc887d7c1c",
+      "logo_dark_asset": "products/gc-ui/gc-ui-logo-dark.svg",
+      "logo_dark_git_blob": "9c36aec87107552fa703798a2b09adb610175572"
+    },
+    {
       "id": "github-dashboard",
       "name": "GoreeCloud GitHub Dashboard",
       "canonical_asset": "products/github-dashboard/app-icon.svg",
